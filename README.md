@@ -1,4 +1,4 @@
-## Alemeno Transaction Pipeline
+## Transaction Pipeline
 
 FastAPI backend for asynchronous transaction CSV processing with PostgreSQL, Redis, Celery, and Gemini-based LLM enrichment.
 
